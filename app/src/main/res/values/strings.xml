@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mobpro1</string>
+    <string name="gambar">Gambar %1$s</string>
+    <string name="error">Gagal Memuat Data Koneksi Error</string>
+    <string name="try_again">Coba Lagi</string>
+    <string name="profiles">Profiles</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Logout</string>
+    <string name="tambah_hewan">Tambah Hewan</string>
+    <string name="nama">Nama</string>
+    <string name="nama_latin">Nama latin</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+    <string name="pesan_hapus">Hapus Data Ini?</string>
+</resources>
