@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Mobpro1</string>
+    <string name="app_name">Galeries</string>
     <string name="gambar">Gambar %1$s</string>
     <string name="error">Gagal Memuat Data Koneksi Error</string>
     <string name="try_again">Coba Lagi</string>
@@ -13,4 +13,8 @@
     <string name="simpan">Simpan</string>
     <string name="hapus">Hapus</string>
     <string name="pesan_hapus">Hapus Data Ini?</string>
+    <string name="empty_image">Anda belum memiliki gambar. Silahkan tambahkan gambar anda</string>
+    <string name="add_image">Tambah gambar</string>
+    <string name="login_first">Silakan login terlebih dahulu untuk melihat dan mengelola gambar Anda</string>
+    <string name="auth">Silahkan melakukan login sebelum mengupload gambar</string>
 </resources>
